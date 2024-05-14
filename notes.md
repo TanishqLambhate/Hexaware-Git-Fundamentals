@@ -95,3 +95,12 @@ feature -> dev 2, 3 days,   dev -> staging 2 weeks, staging -> master 1 month
     - when people make different changes to the same line of the same file, 
     or
     - when one person edits a file and another person deletes the same file.
+- Undo commit
+    - when we do hard it will completly gets deleted
+    - when we do soft it will go to staging area
+
+![alt text](image-1.png)
+
+More commits should be done in project to show our progress 
+
+stashing is done when you are half way through the task and want to keep it to yourself.

@@ -11,7 +11,7 @@
 
 - how
     1. working -changes/diff
-    2. staging
+    2. staging- If we want to pick selected files
     3. commiting-message
     - github-push
 
@@ -84,3 +84,14 @@ fast forward merge
 - git clone https://github.com/ragavkumarv/hexaware-git-fundamentals.git
 - git pull
 - git checkout -b feat-directors
+
+- main brach
+- staging branch
+- developer branch
+- feature branch
+feature -> dev 2, 3 days,   dev -> staging 2 weeks, staging -> master 1 month 
+
+- conflicts while merging
+    - when people make different changes to the same line of the same file, 
+    or
+    - when one person edits a file and another person deletes the same file.
